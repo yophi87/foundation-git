@@ -1,2 +1,2 @@
-# foundation-git
-Media bagi santri belajar dan latihan materi Git pada program Foundation by Sandbox IT HSI 
+# Sedang belajar Git?
+Buatlah sebuah issue menggunakan template [Profil](https://github.com/hsiabdullahroy/foundation-git/issues/new?template=profil-github-santri-foundation.md) dan ikuti proses berikutnya.
